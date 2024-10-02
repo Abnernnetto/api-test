@@ -1,0 +1,1 @@
+Este código é referente a um desafio proposto pela cadeira de API para Automação de Testes, da Pós-Graduação em Automação de Testes De Software ministrado pelo Julio de Lima, onde o intuito era criar testes para validar uma API utilizando o framework JEST em conjunto a biblioteca SUPERTEST com JavaScript.
